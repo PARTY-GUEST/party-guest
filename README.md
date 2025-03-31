@@ -11,7 +11,7 @@
   <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=party-guest.visitor-badge&left_color=black&right_color=red&left_text=!">
   </div>
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fjxgs32zel4r4mtvfoeaxvkde&cover_image=true&theme=natemoo-re&show_offline=false&background_color=231d72&interchange=true&bar_color=ea4848&bar_color_cover=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fjxgs32zel4r4mtvfoeaxvkde&cover_image=true&theme=natemoo-re&show_offline=true&background_color=cd0a0a&interchange=true&bar_color=cd0a0a&bar_color_cover=false">
   <br>
   <img src="https://github.com/user-attachments/assets/fc6c9e2a-2d57-4043-a6fd-8ba48b3faca2" width="60%" height="auto">
   <br>
