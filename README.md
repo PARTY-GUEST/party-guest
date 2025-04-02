@@ -11,8 +11,13 @@
   <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=party-guest.visitor-badge&left_color=black&right_color=red&left_text=!">
   </div>
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fjxgs32zel4r4mtvfoeaxvkde&cover_image=true&theme=natemoo-re&show_offline=true&background_color=cd0a0a&interchange=true&bar_color=cd0a0a&bar_color_cover=false">
   <br>
+  <p><b><i>w2i all the time , c+h whenever in my name</i></b></p>
+  <P><i>Pest is a c'link of mine, but I do not act typically "rude" or "selfish" as he is steryotyped. I am friendly and do enjoy conversations!</i></P>
+  <p><i>Ships I have no care for interacting such as cuddling, but I don't have intentions of roleplaying.</i></p>
+  <p><b><i>Refer to my <a href="https://github.com/12R0DS">main</a> for more info</i></b></p>
+  <br>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fjxgs32zel4r4mtvfoeaxvkde&cover_image=true&theme=natemoo-re&show_offline=true&background_color=cd0a0a&interchange=true&bar_color=cd0a0a&bar_color_cover=false">
   <img src="https://github.com/user-attachments/assets/fc6c9e2a-2d57-4043-a6fd-8ba48b3faca2" width="80%" height="auto">
   <br>
   <h5>OVERALL WORK IN PROGRESS</h5>
